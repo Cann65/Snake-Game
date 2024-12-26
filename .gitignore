@@ -1,0 +1,19 @@
+# Bytecode-Dateien
+*.pyc
+*.pyo
+__pycache__/
+
+# Logdateien
+*.log
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
+Thumbs.db
+
+# Virtuelle Umgebungen (falls verwendet)
+venv/
+env/
+
+# Sonstiges
+.idea/             # PyCharm-Projektordner
+.vscode/           # VSCode-Projektordner
