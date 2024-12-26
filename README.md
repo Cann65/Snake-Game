@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snake Game
 
 A professional and enhanced version of the classic Snake Game built with Python and Tkinter.
@@ -23,3 +24,6 @@ git clone https://github.com/cann65/Snake-Game.git
 cd Snake-Game
 python3 main.py
 ```
+=======
+# Snake-Game
+>>>>>>> 5a3cefa2372f0eff5c64f15f54fcc3aef6bd1c39
